@@ -1,5 +1,7 @@
 # To Do List
 
+![Example](images/Example.png)
+
 ## Introduction
 The "To Do List" is a simple web application that allows users to manage their daily tasks efficiently. This project demonstrates the use of modern web technologies to create a full-stack application for task management.
 
